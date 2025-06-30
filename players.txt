@@ -1,19 +1,22 @@
-sammra kawal|20|qura@gmail.com|0
-sammra kawal,1,20,qura@gmail.com
-Irha Batool|20|School@gmail.com|0
-Irha Batool,1,20,School@gmail.com
-Bela|29|Bela@gmail.com|0
-Bela,1,29,Bela@gmail.com
-Bela,2,29,Bela@gmail.com
-Rabiya|20|rabiyamuhammadkhan68@gmail.com|0
-Rabiya,1,20,rabiyamuhammadkhan68@gmail.com
-Rabiya,2,20,rabiyamuhammadkhan68@gmail.com
-jahangir kashif|22|jahangirkashif11@gmail.com|0
-ali|21|muhammadshairali@gmail.com|0
-ali,1,21,muhammadshairali@gmail.com
-m.raza.ali|12|m.raza.alig.com|0
-m.raza.ali,1,12,m.raza.alig.com
-m.raza.ali,2,12,m.raza.alig.com
-Maryam Jahangir|20|maryam@gmail.com|0
-Maryam Jahangir,1,20,maryam@gmail.com
-Maryam Jahangir,2,20,maryam@gmail.com
+Maryam Jahangir|19|ukasha.hassan.dev@gmail.com |0
+Maryam Jahangir,1,19,ukasha.hassan.dev@gmail.com 
+Maryam Ali|19|maryam@gmail.com|0
+Maryam Ali|19|maryam@gmail.com|10
+Maryam Ali|19|maryam@gmail.com|10
+Maryam Ali|19|maryam@gmail.com|20
+Maryam Ali|19|maryam@gmail.com|20
+Maryam Ali|19|maryam@gmail.com|30
+Maryam Ali|19|maryam@gmail.com|30
+Maryam Ali|19|maryam@gmail.com|40
+Maryam Ali|19|maryam@gmail.com|40
+Maryam Ali|19|maryam@gmail.com|50
+Maryam Ali|19|maryam@gmail.com|50
+Unaiza|21|unaiza@gmail.com|0
+Unaiza|21|unaiza@gmail.com|10
+Unaiza|21|unaiza@gmail.com|10
+Unaiza|21|unaiza@gmail.com|20
+Unaiza|21|unaiza@gmail.com|20
+Unaiza|21|unaiza@gmail.com|70
+sofia|12|email.com|0
+neza|23|wiwfjw|0
+Maryam|20|Ary@gmail.com|0
